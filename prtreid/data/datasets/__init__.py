@@ -28,6 +28,7 @@ __image_datasets = {
     'partial_ilids': Partial_iLIDS,
     'p_ETHZ': P_ETHZ,
     'p_dukemtmc_reid': PDukemtmcReid,
+    'SoccerNet': SoccerNet,
 }
 
 __datasets_nicknames = {
